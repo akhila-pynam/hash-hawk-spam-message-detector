@@ -1,39 +1,42 @@
-# hash-hawk-spam-message-detector
-#Hey, yo ! I detect spam messages like a hawk.
+# 🦅 Hash Hawk - Spam Message Detector
 
-# Run It !
+Hey, yo! I detect spam messages like a hawk 🦅 using AI.
 
-## 1. Clone the Repository
+## 🚀 Features
+
+* Detects spam messages using Machine Learning
+* Simple UI using Streamlit
+
+## 🌐 Run the Project
+
+### 1. Clone the Repository
 
 git clone https://github.com/akhila-pynam/hash-hawk-spam-message-detector.git
-
 cd hash-hawk-spam-message-detector
 
-## 2. Create Virtual Environment (optional but recommended)
+### 2. Create Virtual Environment (Optional)
 
 python -m venv .venv
-
-# Activate (Windows)
-
 .venv\Scripts\activate
 
-# Activate (Mac/Linux)
-
-source .venv/bin/activate
-
-## 3. Install Requirements
+### 3. Install Requirements
 
 pip install -r requirements.txt
 
-## 4. Run the AI Model (optional test)
+### 4. Run the AI Model
 
 python spam_detector.py
 
-## 5. Run the Web App
+### 5. Run the Web App
 
 streamlit run app.py
 
-## 6. Open in Browser
+### 6. Open in Browser
 
-After running, open:
 http://localhost:8501
+
+## 🧠 Tech Stack
+
+* Python
+* Scikit-learn
+* Streamlit
