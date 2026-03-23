@@ -31,10 +31,6 @@ python spam_detector.py
 
 streamlit run app.py
 
-### 6. Open in Browser
-
-http://localhost:8501
-
 ## 🧠 Tech Stack
 
 * Python
